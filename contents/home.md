@@ -1,1 +1,1 @@
-
+My name is Zhaoqi Zhang. I’m currently pursuing my PhD studies in Data Mining and Artificial Intellgince, in Nanyang Technological University. I am under the supervision of Professor Cong Gao and Professor Siqiang Luo. My research focus is on spatial-temporal data mining, artificial intelligence, and smart cities. Before joining NTU, I received my Bachelor's degree in Software Engineering after graduating from Dalian University of Technology.
