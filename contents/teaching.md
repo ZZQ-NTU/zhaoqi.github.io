@@ -1,0 +1,4 @@
+- Operating Systems (*SC/CE/CZ2005*): Teaching Assistant, 22 Spring, NTU
+- Software System Analysis and Design (*CZ3003*): Teaching Assistant, 22 Spring, NTU
+- Software Engineering (*SC/CE/CZ2006*): Teaching Assistant, 22 Fall, 23 Spring, NTU
+- Introduction to Databases (*SC2207/CZ2007*): Teaching Assistant, 25 Spring, NTU
